@@ -25,9 +25,9 @@ This fork it's officially supported by FJNR-inc since June 10th 2020.
 
 In this context:
 
- - Fell free to create issues in order to evaluate new needs
- - Fell free to create PR in order to merge your individual enhancement you can have done on your own
- - Fell free to contact us if you want to contribute on this package and maintain it
+ - Feel free to create issues in order to evaluate new needs
+ - Feel free to create PR in order to merge any individual enhancement you may have done on your own
+ - Feel free to contact us if you want to contribute on this package and maintain it
 
 ## Overview
 
